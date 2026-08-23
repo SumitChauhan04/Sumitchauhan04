@@ -24,3 +24,4 @@ A passionate developer building web applications and exploring open source.
 
 ### 📬 Connect with Me
 - 📧 Email: sumeetc153@gmail.com
+- 💼 **LinkedIn:https://www.linkedin.com/in/sumit-chauhan-b51022301?utm_source=share_via&utm_content=profile&utm_medium=member_android
