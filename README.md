@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Sumit chauhan
 
 A passionate developer building web applications and exploring open source.
 
@@ -9,7 +9,7 @@ A passionate developer building web applications and exploring open source.
 - 🔭 Currently working on **enhancing my coding skills & building projects**
 - 🌱 Currently learning **HTML, CSS, JavaScript & React**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: sumeetc153@gmail.com
 
 ---
 
