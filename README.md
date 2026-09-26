@@ -95,4 +95,8 @@
   <a href="https://leetcode.com/u/Sumit_chauahn/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Sumit__chauahn-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+    <a href="https://www.hackerrank.com/profile/sumit_chauhan7st" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-sumit__chauhan7st-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+
 </p>
